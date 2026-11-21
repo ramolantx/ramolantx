@@ -9,7 +9,7 @@ Hi, I'm <a href="https://github.com/ramolantx"> Antonella Ramos </a>
 
 - Study artificial intelligence.
 
-- Learn to program in HTML and Python
+- Learn to program in Python
 
 - I speak spanish.
   
